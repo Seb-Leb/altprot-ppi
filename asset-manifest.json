@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/altprot-ppi/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/altprot-ppi/static/js/main.2a732bb7.chunk.js",
+    "main.js.map": "/altprot-ppi/static/js/main.2a732bb7.chunk.js.map",
+    "runtime-main.js": "/altprot-ppi/static/js/runtime-main.fe4c3659.js",
+    "runtime-main.js.map": "/altprot-ppi/static/js/runtime-main.fe4c3659.js.map",
+    "static/js/2.8c7d9875.chunk.js": "/altprot-ppi/static/js/2.8c7d9875.chunk.js",
+    "static/js/2.8c7d9875.chunk.js.map": "/altprot-ppi/static/js/2.8c7d9875.chunk.js.map",
+    "static/js/3.aa213413.chunk.js": "/altprot-ppi/static/js/3.aa213413.chunk.js",
+    "static/js/3.aa213413.chunk.js.map": "/altprot-ppi/static/js/3.aa213413.chunk.js.map",
+    "index.html": "/altprot-ppi/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/altprot-ppi/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.8c7d9875.chunk.js.LICENSE.txt": "/altprot-ppi/static/js/2.8c7d9875.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/altprot-ppi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe4c3659.js",
+    "static/js/2.8c7d9875.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.2a732bb7.chunk.js"
+  ]
+}
