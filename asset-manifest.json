@@ -1,25 +1,30 @@
 {
   "files": {
     "main.css": "/altprot-ppi/static/css/main.f28a6f4f.chunk.css",
-    "main.js": "/altprot-ppi/static/js/main.4f72056d.chunk.js",
-    "main.js.map": "/altprot-ppi/static/js/main.4f72056d.chunk.js.map",
-    "runtime-main.js": "/altprot-ppi/static/js/runtime-main.06ce038f.js",
-    "runtime-main.js.map": "/altprot-ppi/static/js/runtime-main.06ce038f.js.map",
+    "main.js": "/altprot-ppi/static/js/main.88ed1f6e.chunk.js",
+    "main.js.map": "/altprot-ppi/static/js/main.88ed1f6e.chunk.js.map",
+    "runtime-main.js": "/altprot-ppi/static/js/runtime-main.4e440bb8.js",
+    "runtime-main.js.map": "/altprot-ppi/static/js/runtime-main.4e440bb8.js.map",
     "static/css/2.01cc8413.chunk.css": "/altprot-ppi/static/css/2.01cc8413.chunk.css",
-    "static/js/2.6329ca3c.chunk.js": "/altprot-ppi/static/js/2.6329ca3c.chunk.js",
-    "static/js/2.6329ca3c.chunk.js.map": "/altprot-ppi/static/js/2.6329ca3c.chunk.js.map",
-    "static/js/3.9443bdbc.chunk.js": "/altprot-ppi/static/js/3.9443bdbc.chunk.js",
-    "static/js/3.9443bdbc.chunk.js.map": "/altprot-ppi/static/js/3.9443bdbc.chunk.js.map",
+    "static/js/2.0d515739.chunk.js": "/altprot-ppi/static/js/2.0d515739.chunk.js",
+    "static/js/2.0d515739.chunk.js.map": "/altprot-ppi/static/js/2.0d515739.chunk.js.map",
+    "static/js/3.f8a52678.chunk.js": "/altprot-ppi/static/js/3.f8a52678.chunk.js",
+    "static/js/3.f8a52678.chunk.js.map": "/altprot-ppi/static/js/3.f8a52678.chunk.js.map",
     "index.html": "/altprot-ppi/index.html",
     "static/css/2.01cc8413.chunk.css.map": "/altprot-ppi/static/css/2.01cc8413.chunk.css.map",
     "static/css/main.f28a6f4f.chunk.css.map": "/altprot-ppi/static/css/main.f28a6f4f.chunk.css.map",
-    "static/js/2.6329ca3c.chunk.js.LICENSE.txt": "/altprot-ppi/static/js/2.6329ca3c.chunk.js.LICENSE.txt"
+    "static/js/2.0d515739.chunk.js.LICENSE.txt": "/altprot-ppi/static/js/2.0d515739.chunk.js.LICENSE.txt",
+    "static/media/UdeS_logo.9941bc47.png": "/altprot-ppi/static/media/UdeS_logo.9941bc47.png",
+    "static/media/compute_canada_logo.f55f9731.png": "/altprot-ppi/static/media/compute_canada_logo.f55f9731.png",
+    "static/media/leaf-cihr-colour-en.556cbca7.jpg": "/altprot-ppi/static/media/leaf-cihr-colour-en.556cbca7.jpg",
+    "static/media/logo-frqs-couleur.bfe07d3b.png": "/altprot-ppi/static/media/logo-frqs-couleur.bfe07d3b.png",
+    "static/media/logo_home.e404bd9e.png": "/altprot-ppi/static/media/logo_home.e404bd9e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.06ce038f.js",
+    "static/js/runtime-main.4e440bb8.js",
     "static/css/2.01cc8413.chunk.css",
-    "static/js/2.6329ca3c.chunk.js",
+    "static/js/2.0d515739.chunk.js",
     "static/css/main.f28a6f4f.chunk.css",
-    "static/js/main.4f72056d.chunk.js"
+    "static/js/main.88ed1f6e.chunk.js"
   ]
 }
