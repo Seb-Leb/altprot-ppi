@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/altprot-ppi/static/css/main.f28a6f4f.chunk.css",
-    "main.js": "/altprot-ppi/static/js/main.06771014.chunk.js",
-    "main.js.map": "/altprot-ppi/static/js/main.06771014.chunk.js.map",
+    "main.js": "/altprot-ppi/static/js/main.a26232dc.chunk.js",
+    "main.js.map": "/altprot-ppi/static/js/main.a26232dc.chunk.js.map",
     "runtime-main.js": "/altprot-ppi/static/js/runtime-main.97b76df2.js",
     "runtime-main.js.map": "/altprot-ppi/static/js/runtime-main.97b76df2.js.map",
     "static/css/2.01cc8413.chunk.css": "/altprot-ppi/static/css/2.01cc8413.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.01cc8413.chunk.css",
     "static/js/2.81a92a93.chunk.js",
     "static/css/main.f28a6f4f.chunk.css",
-    "static/js/main.06771014.chunk.js"
+    "static/js/main.a26232dc.chunk.js"
   ]
 }
